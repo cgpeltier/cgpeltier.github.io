@@ -1,5 +1,5 @@
 title: Chad Peltier # your name (or website title) here
-logo: "/images/Headshot.jpg" # your photo (or logo) here
+logo: "/images/Headshot.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data | Defense Policy | Public Policy
   <br><br>
@@ -7,6 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/chad-peltier-4aba855a/">View my LinkedIn Profile</a>
   <a href="https://github.com/cgpeltier">View my GitHub Profile</a>
+  
   
   
   
