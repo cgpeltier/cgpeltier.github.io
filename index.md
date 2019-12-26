@@ -21,7 +21,7 @@
 ### Music Analysis
 - [stuRgill simpson](https://github.com/cgpeltier/Music/blob/master/stuRgill.md)
 <img src="images/4c1a1b88.jpg"/>
-Image from [Pitchfork]("pitchfork.com%2Freviews%2Falbums%2F19386-sturgill-simpson-metamodern-sounds-in-country-music%2F&psig=AOvVaw3F1Xfpn-l6OG7F_YdmKD_j&ust=1577472352835288&ictx=3&uact=3")
+Image from [Pitchfork]("https://pitchfork.com/reviews/albums/19386-sturgill-simpson-metamodern-sounds-in-country-music/")
 
 ---
 
