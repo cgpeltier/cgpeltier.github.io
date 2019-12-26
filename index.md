@@ -3,7 +3,7 @@
 ---
 
 ### College Football Analysis
-I learned data science in large part through analysis of college football data. Between the 2013 and 2019 college football seasons I wrote twice-weekly articles for [Football Outsiders]("https://www.footballoutsiders.com/") and various [SB Nation]("https://www.sbnation.com/") sites using advanced football analytics. Below are some of my college football projects:
+I learned data science in large part through analysis of college football data. Between the 2013 and 2019 college football seasons I wrote twice-weekly articles for Football Outsiders and various SB Nation sites using advanced football analytics. Below are some of my college football projects:
 
 [EPA Analysis](https://github.com/cgpeltier/CFB_EPA/blob/master/epa_analysis.md)
 <img src="images/epa_off_def.png"/>
