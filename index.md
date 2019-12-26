@@ -19,6 +19,7 @@ I learned data science in large part through analysis of college football data. 
 ---
 ### Music Analysis
 This project analyzes the music of one of my favorite musicians, Sturgill Simpson. 
+
 [stuRgill](https://github.com/cgpeltier/Music/blob/master/stuRgill.md)
 <img src="images/4c1a1b88.jpg"/>
 Image from [Pitchfork]("https://pitchfork.com/reviews/albums/19386-sturgill-simpson-metamodern-sounds-in-country-music/")
