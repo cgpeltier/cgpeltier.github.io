@@ -19,7 +19,7 @@
 
 ### Music Analysis
 
-- [stuRgill simpson](http://example.com/)
+- [stuRgill simpson](https://github.com/cgpeltier/Music/blob/master/stuRgill.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
