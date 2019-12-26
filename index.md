@@ -20,8 +20,8 @@
 ### Music Analysis
 
 - [stuRgill simpson](https://github.com/cgpeltier/Music/blob/master/stuRgill.md)
-<img src="images/a2550786045_10.jpg"/>
-Image from [Sturgill Simpson's Bandcamp](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjz-ezK_NPmAhUCw1kKHQPvBRAQMwhTKAAwAA&url=https%3A%2F%2Fsturgillsimpson.bandcamp.com%2F&psig=AOvVaw3F1Xfpn-l6OG7F_YdmKD_j&ust=1577472352835288&ictx=3&uact=3)
+<img src="images/4c1a1b88.jpg"/>
+Image from [Pitchfork](pitchfork.com%2Freviews%2Falbums%2F19386-sturgill-simpson-metamodern-sounds-in-country-music%2F&psig=AOvVaw3F1Xfpn-l6OG7F_YdmKD_j&ust=1577472352835288&ictx=3&uact=3)
 
 ---
 
