@@ -2,6 +2,10 @@
 
 ---
 
+### Defense and OSINT Analysis
+[Comparion of U.S. and China R&D Budgets](https://github.com/cgpeltier/Defense/blob/master/rd_investment_project.md)
+<img src="images/rd_spending.png"/>
+
 ### College Football Analysis
 I learned data science in large part through analysis of college football data. Between the 2013 and 2019 college football seasons I wrote twice-weekly articles for Football Outsiders and various SB Nation sites using advanced football analytics. Below are some of my college football projects:
 
