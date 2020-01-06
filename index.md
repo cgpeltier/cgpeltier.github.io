@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-
 ### Defense and OSINT Analysis
 [Comparion of U.S. and China R&D Budgets](https://github.com/cgpeltier/Defense/blob/master/rd_investment_project.md)
 <img src="images/rd_spending.png"/>
