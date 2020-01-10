@@ -2,6 +2,9 @@
 
 ---
 ### Defense and OSINT Analysis
+[U.S. DoD R&D Budget Analysis: Scraping Budget Justification Books and Emerging Technology Analysis](https://github.com/cgpeltier/Defense/blob/master/rd_investment_project.md)
+<img src="images/tech_type_20_2.jpg"/>
+---
 [Comparion of U.S. and China R&D Budgets](https://github.com/cgpeltier/Defense/blob/master/rd_investment_project.md)
 <img src="images/rd_spending.png"/>
 
