@@ -3,14 +3,17 @@
 ---
 ### Defense and OSINT Analysis
 [Scraping DoD Contract Award Data](https://github.com/cgpeltier/Defense/blob/master/dod_contract_award_scraping.md)
+
 This project scrapes data from the DoD contract award announcements website, with a function to easily pull structured contract details for any record back to 2014. 
 <img src="images/hypersonic_awards_timeline.png"/>
 
 [U.S. DoD R&D Budget Analysis: Scraping Budget Justification Books and Emerging Technology Analysis](https://github.com/cgpeltier/Defense/blob/master/dod_budget_scraping.md)
+
 This project scrapes DoD program descriptions and other data from the R&D Budget Justification Books, and analyzes various emerging technologies in the FY2020 DoD Budget.
-<img src="tech_type_20_ridge_top.png"/>
+<img src="images/tech_type_20_ridge_top.png"/>
 
 [Comparion of U.S. and China R&D Budgets](https://github.com/cgpeltier/Defense/blob/master/rd_investment_project.md)
+
 An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D budget data from the OECD and defense R&D budget data from Jane's.
 <img src="images/rd_spending.png"/>
 
