@@ -19,6 +19,8 @@ An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D b
 
 ### Public Policy and Political Analysis
 [Exploratory Analysis of the 2018 Georgia Governor Race](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/ga_governor2018.md)
+
+This project uses Census and American Community Survey (ACS) data to analyze the results of the 2018 Georgia governor race.
 <img src="images/gov_flips.png"/>
 
 ### College Football Analysis
