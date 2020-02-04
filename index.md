@@ -17,6 +17,10 @@ This project scrapes DoD program descriptions and other data from the R&D Budget
 An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D budget data from the OECD and defense R&D budget data from Jane's.
 <img src="images/rd_spending.png"/>
 
+### Public Policy and Political Analysis
+[Exploratory Analysis of the 2018 Georgia Governor Race](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/ga_governor2018.md)
+<img src="images/gov_flips.png"/>
+
 ### College Football Analysis
 I learned data science in large part through analysis of college football data. Between the 2013 and 2019 college football seasons I wrote twice-weekly articles for Football Outsiders and various SB Nation sites using advanced football analytics. Below are some of my college football projects:
 
@@ -37,8 +41,6 @@ This project analyzes the music of one of my favorite musicians, Sturgill Simpso
 
 [stuRgill](https://github.com/cgpeltier/Music/blob/master/stuRgill.md)
 <img src="images/artist_comp_energy.png"/>
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
