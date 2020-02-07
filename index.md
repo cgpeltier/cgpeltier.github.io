@@ -38,9 +38,6 @@ I learned data science in large part through analysis of college football data. 
 [Charting Team Explosiveness](https://github.com/cgpeltier/CFB_EPA/blob/master/charting_team_explosiveness.md)
 <img src="images/epa_explosive_avg_epa.png"/>
 
-[The Relationship Between Talent and Production in College Football](https://github.com/cgpeltier/CFB_EPA/blob/master/talent_production_project.md)
-<img src="images/talent_tests.png"/>
-
 ### Music Analysis
 This project analyzes the music of one of my favorite musicians, Sturgill Simpson. 
 
