@@ -2,6 +2,9 @@
 
 ---
 ### Defense and OSINT Analysis
+[Modeling Naval Ship Classes](https://github.com/cgpeltier/Defense/blob/master/fighting_ships_modeling.md)
+<img src="images/fs_class_importance.png"/>
+
 [Scraping DoD Contract Award Data](https://github.com/cgpeltier/Defense/blob/master/dod_contract_award_scraping.md)
 
 This project scrapes data from the DoD contract award announcements website, with a function to easily pull structured contract details for any record back to 2014. 
