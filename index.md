@@ -3,6 +3,8 @@
 ---
 ### Defense and OSINT Analysis
 [Modeling Naval Ship Classes](https://github.com/cgpeltier/Defense/blob/master/fighting_ships_modeling.md)
+
+This project uses a random forest machine learning classifier to model ship classes (i.e. destroyers, frigates, and amphibious assault ships) based on various specifications and characteristics from *Jane's Fighting Ships* data. 
 <img src="images/fs_class_importance.png"/>
 
 [Scraping DoD Contract Award Data](https://github.com/cgpeltier/Defense/blob/master/dod_contract_award_scraping.md)
