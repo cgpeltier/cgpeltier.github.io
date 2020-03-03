@@ -2,6 +2,11 @@
 
 ---
 ### Defense and OSINT Analysis
+[U.S. DoD R&D Budget Analysis: Comparing the FY2020 and FY2021 Budgets' Focus on Emerging Technologies](https://github.com/cgpeltier/Defense/blob/master/dod_budget_scraping_fy2021.md)
+
+This project scrapes DoD program descriptions and other data from the R&D Budget Justification Books, and analyzes various emerging technologies in the FY2020 and FY2021 DoD Budgets.
+<img src="images/unnamed-chunk-7-2.png"/>
+
 [Modeling Naval Ship Classes](https://github.com/cgpeltier/Defense/blob/master/fighting_ships_modeling.md)
 
 This project uses a random forest machine learning classifier to model ship classes (i.e. destroyers, frigates, and amphibious assault ships) based on various specifications and characteristics from *Jane's Fighting Ships* data. 
@@ -11,11 +16,6 @@ This project uses a random forest machine learning classifier to model ship clas
 
 This project scrapes data from the DoD contract award announcements website, with a function to easily pull structured contract details for any record back to 2014. 
 <img src="images/hypersonic_awards_timeline.png"/>
-
-[U.S. DoD R&D Budget Analysis: Scraping Budget Justification Books and Emerging Technology Analysis](https://github.com/cgpeltier/Defense/blob/master/dod_budget_scraping.md)
-
-This project scrapes DoD program descriptions and other data from the R&D Budget Justification Books, and analyzes various emerging technologies in the FY2020 DoD Budget.
-<img src="images/tech_type_20_ridge_top.png"/>
 
 [Comparion of U.S. and China R&D Budgets](https://github.com/cgpeltier/Defense/blob/master/rd_investment_project.md)
 
