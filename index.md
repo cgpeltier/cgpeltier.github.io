@@ -38,6 +38,7 @@ This project uses Census and American Community Survey (ACS) data to analyze the
 <img src="images/positions.png"/>
 
 [stuRgill](https://github.com/cgpeltier/Music/blob/master/stuRgill.md)
+
 This project analyzes the music of one of my favorite musicians, Sturgill Simpson. 
 <img src="images/artist_comp_energy.png"/>
 
