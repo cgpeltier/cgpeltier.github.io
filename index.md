@@ -4,7 +4,8 @@
 ### Defense and OSINT Analysis
 [U.S. DoD R&D Budget Analysis: Comparing the FY2020 and FY2021 Budgets' Focus on Emerging Technologies](https://github.com/cgpeltier/Defense/blob/master/dod_budget_scraping_fy2021.md)
 
-This project scrapes DoD program descriptions and other data from the R&D Budget Justification Books, and analyzes various emerging technologies in the FY2020 and FY2021 DoD Budgets.
+This project scrapes DoD program descriptions and other data from the R&D Budget Justification Books, and analyzes various emerging technologies in the FY2020 and FY2021 DoD Budgets. It was turned into an article for War on the Rocks: [Put Your Money Where Your Strategy Is: Using Machine Learning to Analyze the Pentagon Budget](https://warontherocks.com/2020/03/put-your-money-where-your-strategy-is-using-machine-learning-to-analyze-the-pentagon-budget/).
+
 <img src="images/unnamed-chunk-7-2.png"/>
 
 [Estimating Unknown Ship Specifications](https://github.com/cgpeltier/Defense/blob/master/Modeling-Ship-Displacement.md)
