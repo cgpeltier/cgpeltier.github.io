@@ -32,7 +32,7 @@ An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D b
 [Analysis of Elizabeth Warren's Presidnetial Campaign](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/nationscape.md)
 
 An analysis of what factors affected Democratic voters' declining support of Elizabeth Warren despite high overall favorability. 
-<img src="images/Warren_favor_intent.png"/>
+<img src="images/ns_warren_map4.png"/>
 
 [Exploratory Analysis of the 2018 Georgia Governor Race](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/ga_governor2018.md)
 
