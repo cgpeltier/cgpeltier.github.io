@@ -29,7 +29,7 @@ An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D b
 <img src="images/rd_spending.png"/>
 
 ### Public policy and political analysis
-[Analysis of Elizabeth Warren's Presidnetial Campaign](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/nationscape.md)
+[Analysis of Elizabeth Warren's Presidential Campaign](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/nationscape.md)
 
 An analysis of what factors affected Democratic voters' declining support of Elizabeth Warren despite high overall favorability. 
 <img src="images/ns_warren_map4.png"/>
