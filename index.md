@@ -29,6 +29,11 @@ An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D b
 <img src="images/rd_spending.png"/>
 
 ### Public policy and political analysis
+[Analysis of Elizabeth Warren's Presidnetial Campaign](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/nationscape.md)
+
+An analysis of what factors affected Democratic voters' declining support of Elizabeth Warren despite high overall favorability. 
+<img src="images/Warren_favor_intent.png"/>
+
 [Exploratory Analysis of the 2018 Georgia Governor Race](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/ga_governor2018.md)
 
 This project uses Census and American Community Survey (ACS) data to analyze the results of the 2018 Georgia governor race.
