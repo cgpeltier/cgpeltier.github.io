@@ -29,6 +29,12 @@ An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D b
 <img src="images/rd_spending.png"/>
 
 ### Public policy and political analysis
+[Who are the Republicans with Positive Views of Democrats?](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/repub_views.md)
+
+This project uses Democracy Fund + UCLA Nationscape data to analyze the Republicans who hold favorable views of Democrats. It tests several models to predict which Republicans will hold favorable views of at least one Democrat. 
+<img src="images/repubs_dems_fav3.png"/>
+
+
 [Analysis of Elizabeth Warren's Presidential Campaign](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/nationscape.md)
 
 An analysis of what factors affected Democratic voters' declining support of Elizabeth Warren despite high overall favorability. 
