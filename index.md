@@ -6,7 +6,7 @@
 
 This project scrapes DoD program descriptions and other data from the R&D Budget Justification Books, and analyzes various emerging technologies in the FY2020 and FY2021 DoD Budgets. 
 
-It was turned into an article for War on the Rocks: [Put Your Money Where Your Strategy Is: Using Machine Learning to Analyze the Pentagon Budget](https://warontherocks.com/2020/03/put-your-money-where-your-strategy-is-using-machine-learning-to-analyze-the-pentagon-budget/).
+It was turned into an article for *War on the Rocks*: [Put Your Money Where Your Strategy Is: Using Machine Learning to Analyze the Pentagon Budget](https://warontherocks.com/2020/03/put-your-money-where-your-strategy-is-using-machine-learning-to-analyze-the-pentagon-budget/).
 
 <img src="images/unnamed-chunk-7-2.png"/>
 
