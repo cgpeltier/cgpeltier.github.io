@@ -18,7 +18,7 @@ This project uses data from *Jane's Fighting Ships* to estimate unknown ship spe
 [Mapping U.S. Fighter Aircraft Order of Battle](https://github.com/cgpeltier/Defense/blob/master/orbats.md)
 
 This project uses the Janes API to pull ORBAT information for U.S. fighter aircraft, then creates ORBAT maps for each aircraft. 
-<img src="images/U.S. F-35 ORBAT .png"/>
+<img src="images/us_f35_orbat.png"/>
 
 [Modeling Naval Ship Classes](https://github.com/cgpeltier/Defense/blob/master/fighting_ships_modeling.md)
 
