@@ -15,6 +15,11 @@ It was turned into an article for *War on the Rocks*: [Put Your Money Where Your
 This project uses data from *Jane's Fighting Ships* to estimate unknown ship specifications, starting with a ship's displacement. 
 <img src="images/ggp.png"/>
 
+[Mapping U.S. Fighter Aircraft Order of Battle](https://github.com/cgpeltier/Defense/blob/master/orbats.md)
+
+This project uses the Janes API to pull ORBAT information for U.S. fighter aircraft, then creates ORBAT maps for each aircraft. 
+<img src="images/U.S. F-35 ORBAT .png"/>
+
 [Modeling Naval Ship Classes](https://github.com/cgpeltier/Defense/blob/master/fighting_ships_modeling.md)
 
 This project uses a random forest machine learning classifier to model ship classes (i.e. destroyers, frigates, and amphibious assault ships) based on various specifications and characteristics from *Jane's Fighting Ships* data. 
