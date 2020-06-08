@@ -41,11 +41,15 @@ An exploratory analysis of U.S. and Chinese R&D budgets, comparing overall R&D b
 This project uses Democracy Fund + UCLA Nationscape data to analyze the Republicans who hold favorable views of Democrats. It tests several models to predict which Republicans will hold favorable views of at least one Democrat. 
 <img src="images/repubs_dems_fav3.png"/>
 
-
 [Analysis of Elizabeth Warren's Presidential Campaign](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/nationscape.md)
 
 An analysis of what factors affected Democratic voters' declining support of Elizabeth Warren despite high overall favorability. 
 <img src="images/ns_warren_map4.png"/>
+
+[Text Analysis of the 2020 Democratic Presidential Debates](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/dem_foreignpolicy_preferences_transcripts.md)
+
+This project analyzes the 2020 Democratic Presidential debates.
+<img src = "images/candidate_word_count.png">
 
 [Exploratory Analysis of the 2018 Georgia Governor Race](https://github.com/cgpeltier/Public-Policy-Politics/blob/master/ga_governor2018.md)
 
